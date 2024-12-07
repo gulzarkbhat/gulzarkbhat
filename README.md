@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Gulzar Bhat
+
+- 👨🏻‍💻 Software engineer with expeirence in Android development, backend development and cross-platform application development.
+- 🚧 Working at **Photon**
+- 🖥 Developing in `Kotlin`, `Jetpack Compose` and `KMM`.
 
 <!--
 **gulzarkbhat/gulzarkbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
